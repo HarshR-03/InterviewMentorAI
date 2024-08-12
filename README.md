@@ -45,7 +45,7 @@ To set up the InterviewMentorAI application locally for development purposes, fo
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/HarshR-03/InterviewMentorAI
 
 2. **Navigate to the project directory:**
    ```bash
