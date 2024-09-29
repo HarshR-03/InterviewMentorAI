@@ -18,7 +18,7 @@ export default function Page() {
         <div className="pointer-events-none relative hidden h-screen select-none bg-black md:block md:w-1/2">
           <div className="absolute bottom-0 z-10 px-8 text-white opacity-100">
             <p className="mb-8 text-3xl font-semibold leading-10">We work 10x faster than our competitors and stay consistent. While they're bogged down with technical debt, we're releasing new features.</p>
-            <p className="mb-4 text-3xl font-semibold">Naman Kumar Das</p>
+            <p className="mb-4 text-3xl font-semibold">Harsh Reddy</p>
             <p className="">Founder, InterviewMentor AI</p>
             <p className="mb-7 text-sm opacity-70">Online AI Interview</p>
           </div>
